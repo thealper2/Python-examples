@@ -1,0 +1,10 @@
+import sys
+print(sys.executable)
+print(sys.getwindowsversion())
+print(sys.path)
+print(sys.platform)
+print(sys.prefix)
+print(sys.version)
+print(sys.version_info)
+print(sys.stdout)
+print(sys.stdin)

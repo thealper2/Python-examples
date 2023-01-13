@@ -1,0 +1,11 @@
+import os
+print(os.name)
+print(os.sep)
+print(os.getcwd)
+print(os.chdir)
+print(os.listdir)
+print(os.pardir)
+print(os.listdir())
+print(os.curdir)
+print(os.urandom(10))
+print(os.environ)
